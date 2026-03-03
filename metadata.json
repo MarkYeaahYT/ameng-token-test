@@ -1,0 +1,16 @@
+{
+  "name": "Ameng",
+  "symbol": "AMG",
+  "description": "Token Ameng, Ameng is cool cat btw",
+  "image": "https://yourdomain.com/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://yourdomain.com/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
